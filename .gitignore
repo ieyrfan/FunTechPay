@@ -1,0 +1,9 @@
+.env
+*.zip
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.DS_Store
+.terraform/
+*.exe
